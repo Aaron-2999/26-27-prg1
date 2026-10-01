@@ -1,6 +1,6 @@
 # Reto 001: CRUD@Consola
 
-> Fecha de entrega: lunes 23, 23:59:59
+> Fecha de entrega: jueves 1 de octubre, 14:15:00h
 
 Resolver esto desde la consola.
 
