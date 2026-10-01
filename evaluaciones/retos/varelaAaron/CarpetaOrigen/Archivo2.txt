@@ -1,4 +1,1 @@
-^[
-
-^
-nose como ir hacia arriba en la consola :(
+Ahora si se como subir :)
