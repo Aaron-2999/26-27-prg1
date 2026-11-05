@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola buenas tardes
+=======
+Hola buenas tardes/noches 
+>>>>>>> 1a6e4968a4dd36c538972d52d9487543023a0731

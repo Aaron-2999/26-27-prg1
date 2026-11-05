@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ahora si se como subir :)
+=======
+Me esta gustando esto, se le va quitando el miedo
+>>>>>>> 1a6e4968a4dd36c538972d52d9487543023a0731
